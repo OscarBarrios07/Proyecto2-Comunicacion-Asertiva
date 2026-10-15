@@ -14,7 +14,7 @@ El día jueves durante la hora pico del mediodía (12:15 PM), la aplicación web
 * **12:15 PM:** La pantalla de preparación deja de actualizarse; los botones de selección no responden en el celular de atención.
 * **12:20 PM:** El equipo identifica que la base de datos local del navegador (IndexedDB) saturó la memoria del celular por acumulación de datos no sincronizados.
 * **12:40 PM:** Se aplica un reinicio de la caché del navegador y un script de limpieza de registros antiguos.
-* **13:00 PM:** El sistema restablece su funcionamiento normal y sincroniza los datos pendientes.
+* **1:00 PM:** El sistema restablece su funcionamiento normal y sincroniza los datos pendientes.
 
 ## 3. Impacto
 * **Impacto Operativo:** 45 minutos de interrupción del sistema en el momento de mayor afluencia de clientes.

@@ -24,3 +24,4 @@ graph TD
     I -- Sí --> K[Fin de la jornada]
     J --> K
     
+```
