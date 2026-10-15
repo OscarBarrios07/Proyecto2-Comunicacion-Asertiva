@@ -9,7 +9,9 @@ title: Evidencias de la Toma de Requerimientos
 
 ### Negocio 1: Comedor La Bendición
 
-[Fotografía Negocio 1]![WhatsApp Image 2026-10-14 at 5.28.31 PM](https://hackmd.io/_uploads/B1rasiajzg.jpg)
+[Fotografía Negocio 1]!![WhatsApp Image 2026-10-14 at 5.28.31 PM]
+(https://hackmd.io/_uploads/S1PJ126jMe.jpg)
+
 
 
 
@@ -17,9 +19,9 @@ title: Evidencias de la Toma de Requerimientos
 
 ### Negocio 2: Comedor Don Juan
 
-[Fotografía Negocio 2]![WhatsApp Image 2026-10-14 at 5.26.25 PM](https://hackmd.io/_uploads/r1vl2saoze.jpg)
+[Fotografía Negocio 2]![WhatsApp Image 2026-10-14 at 5.26.25 PM]
+(https://hackmd.io/_uploads/r1vl2saoze.jpg)
 
-(https://hackmd.io/_uploads/S1bk2jpsMg.jpg)
 
 * **Descripción:** Fotografía del equipo frente al establecimiento Comedor Don Juan al finalizar la sesión de entrevistas.
 
