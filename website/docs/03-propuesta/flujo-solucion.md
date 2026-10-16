@@ -1,8 +1,10 @@
 ---
-title: flujo-solucion
-
+title: Flujo de la Solución
 ---
 
+# Flujo de la Solución Propuesta
+
+```mermaid
 graph TD
     A[Inicio: Cliente realiza pedido] --> B[Atendiente selecciona ingredientes en el celular]
     B --> C[El pedido aparece en pantalla de preparación por orden de llegada]
@@ -16,3 +18,4 @@ graph TD
     I --> K[Calculadora sugiere insumos para la compra del día siguiente]
     J --> K
     K --> L[Fin del proceso]
+```

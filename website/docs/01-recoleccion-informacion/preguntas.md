@@ -20,6 +20,6 @@ title: Preguntas para la Toma de Requerimientos
 * ¿Qué registros guarda de sus ventas o clientes? ¿Son registros manuales, mentales o digitales?
 
 ## 4. Preguntas de Especialidad (Giro del Negocio)
-* ¿Cómo calcula cuantos ingredientes tiene que compara al dia para que no se le arruinen ni le hagan falta?
+* ¿Cómo calcula cuántos ingredientes tiene que comprar al día para que no se le arruinen ni le hagan falta?
 * ¿Cómo maneja los pedidos especiales cuando un cliente le pide ingredientes adicionales o quitarle algo?
-* ¿Manejan pedidos para llevar o a domicilio, y cómo evitan que se traslapen con los clientes que están consumiendo en el local?.
+* ¿Manejan pedidos para llevar o a domicilio, y cómo evitan que se traslapen con los clientes que están consumiendo en el local?

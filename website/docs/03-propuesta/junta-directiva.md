@@ -1,9 +1,14 @@
 ---
-title: Simulación de Junta Directiva Técnica
+title: Junta Directiva
 
 ---
 
-# Simulación de Junta Directiva Técnica
+## Video de la Junta Directiva Técnica
+
+[Ver el video de la junta directiva técnica](https://1024terabox.com/s/1jG-Zw3a5a7kuz_PycA2iXA)
+
+**Descripción:** Grabación presencial y continua de la simulación de la junta directiva técnica, con los cinco roles del equipo, discusión, negociación de trade-offs y acuerdo final.
+
 
 ## Datos Generales
 * **Duración:** 50 minutos (grabación continua presencial sin ediciones).
