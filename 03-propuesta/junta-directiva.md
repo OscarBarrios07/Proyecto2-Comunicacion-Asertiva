@@ -7,7 +7,7 @@ title: Simulación de Junta Directiva Técnica
 
 ## Datos Generales
 * **Duración:** 50 minutos (grabación continua presencial sin ediciones).
-* **Enlace al Video:** (https://1024terabox.com/s/1TclpsvjtusVjDoC46IXx0Q)
+* **Enlace al Video:** (https://youtu.be/eVi4swkrDCs)
 
 ## Roles Asumidos por los Integrantes
 * **Iván (Scrum Master / Mediador - Asertivo):** Modera la sesión, establece las reglas de comunicación, concede turnos de palabra y llena el acta de acuerdos.
